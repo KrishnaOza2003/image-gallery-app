@@ -22,7 +22,7 @@ export default function ImageSearch({searchText}) {
             className="flex-shrink-0 bg-teal-500 text-gray-500 hover:bg-teal-700 hover:text-white border-teal-500 hover:border-teal-700 text-sm border-4 px-2 py-1 rounded"
             type="submit"
           >
-            Search Image
+            Search
           </button>
         </div>
       </form>
